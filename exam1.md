@@ -33,6 +33,20 @@ Chapter 3 Drifting Continents and Spreading Seas
 1. Alfred Wegener proposed the continental drift hypothesis. List and
    briefly describe the five pieces of evidence he used to support this
 hypothesis.
+  * The shapes of the continents match. The continents fit together like
+    puzzles pieces that have drifted away over time.
+  * Glacial deposits (till) and striated or scratch rocks. These rocks
+    match up when the continents are put back together as puzzle peices.
+    The southern rocks of Pangea form the southern ice cap.
+  * Parts of Pangea straddled the equator. Coal swamps, salt deposits,
+    and desert sands are scattered on the globe in higher altitudes. It
+    is impossible that these things formed with the continents like they
+    are today.
+  * Land-based fossils. Same spieces of dinosaurs found on different
+    continents today. It means that the different land masses were once
+    connected.
+  * Matching old rocks from old mountain belts. The Appalachian mountain
+    range matches up with the mountains on the west coast of Africa.
 2. Briefly describe Harry Hess’ hypothesis of sea-floor spreading. What
    was the proof that sea floor spreading does exist because it helped
 scientists determine the rate of spreading.
