@@ -1,8 +1,8 @@
 Possible Exam 1 Questions:
 ==========================
 
-Prelude and Chapter 1 Cosmology
--------------------------------
+Prelude and Chapter 1 Cosmology ✔
+---------------------------------
 1. Define scientific method and then briefly describe the four steps
    employed in this method.
    The scientific method is an unbiased approach to finding answers
@@ -60,8 +60,8 @@ elemental composition).
    chemicals and volatiles, we will not be concentrating on. List and
 briefly describe the other five categories of earth materials.
 
-Chapter 3 Drifting Continents and Spreading Seas
-------------------------------------------------
+Chapter 3 Drifting Continents and Spreading Seas ✔
+--------------------------------------------------
 1. Alfred Wegener proposed the continental drift hypothesis. List and
    briefly describe the five pieces of evidence he used to support this
 hypothesis.
