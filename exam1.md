@@ -14,6 +14,23 @@ Prelude and Chapter 1 Cosmology
    4. Testing of the hypothesis.
 2. Briefly explain the steps in the formation of our Solar System based
    on the Nebular Hypothesis.
+
+ At first everything was way to hot. Then 100s later, temperature
+decreased and sub atomic particles like electrons, neutrons and protons
+formed. Hydrogen atoms formed after 5 hours. This is called a nebula gas
+cloud. After some geological time, gravity pulled gas into spinning
+balls and discs - the accretionary disk. Gravity pulled and pulled and
+eventually the matter packed tightly and formed a hot glowing protostar.
+**Boom!** fusion reactions began and stars are born.
+
+Applying this too our solar system, we first have some volatile
+materials like H, He, CH4, C02, H20. Gravity started to pull and this
+materials stuck together and formed planetesimals. With more collisions
+inner heat developed. Heat developed layers because the of the
+densities within the planetesimals. The sun makes solar wind which
+stripped lighter elements from inner to outer. This is why inner planets
+are more rocky.
+
 3. We are all made of stardust. What does this mean? Describe the life
    cycle of stars (stellar nucleosynthesis) and how we can be made of
 stardust.
