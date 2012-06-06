@@ -50,7 +50,6 @@ hypothesis.
 2. Briefly describe Harry Hess’ hypothesis of sea-floor spreading. What
    was the proof that sea floor spreading does exist because it helped
 scientists determine the rate of spreading.
-
   * Harry Hess' hypothesis claims that the sea floor forms at ridges so
     the oceans grow wider.
   * The old sea-floor sinks into the mantle at the trench.
