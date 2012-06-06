@@ -55,8 +55,8 @@ scientists determine the rate of spreading.
   * The old sea-floor sinks into the mantle at the trench.
   * Only the crust moved. Continents are passive riders. 
   * He had two pieces of evidence to support his theory.
-    * Magnetic anomalies
-    * Magnetic Reversals.
+    1. Magnetic anomalies
+    2. Magnetic Reversals.
   * These helped geologists discover that the earth's magnetic field
     reversed polarity over geological time. With radiometric dating of
     lava flows, they could match the magnetic reversals with time.
