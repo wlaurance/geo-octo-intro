@@ -5,6 +5,13 @@ Prelude and Chapter 1 Cosmology
 -------------------------------
 1. Define scientific method and then briefly describe the four steps
    employed in this method.
+   The scientific method is an unbiased approach to finding answers
+   through research, experimentation, and data interpolation.
+   1. Formulation of a scientific problem or a question.
+   2. Collecting data through experiments in the lab or field.
+   3. Formating a hypothesis based on the results and data
+      interpretation.
+   4. Testing of the hypothesis.
 2. Briefly explain the steps in the formation of our Solar System based
    on the Nebular Hypothesis.
 3. We are all made of stardust. What does this mean? Describe the life
