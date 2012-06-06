@@ -37,6 +37,14 @@ stardust.
 4. How many “planets” are in our solar system? There are two kinds of
    planets – what are these and why are they so different? Pluto Is no
 longer a planet – what is it?
+ 
+ We have 8 planets in our solar system. Terrestrial planets are earth
+like and gas-giant planets are gas and much larger that terrestrial
+planets. They are different because when they were planetesimals, solar
+winds from the sun pushed lighter (gasy) elements to the outer planets.
+So closer to the sun are rockier planets, and further out are gasier
+planets. Pluto is a Kuiper Belt object. It is no longer a planet because
+its orbit that lies oblique to the plane of the soler system.
 
 Chapter 2 What is the Earth Made Of?
 ------------------------------------
