@@ -51,6 +51,17 @@ hypothesis.
    was the proof that sea floor spreading does exist because it helped
 scientists determine the rate of spreading.
 
+  * Harry Hess' hypothesis claims that the sea floor forms at ridges so
+    the oceans grow wider.
+  * The old sea-floor sinks into the mantle at the trench.
+  * Only the crust moved. Continents are passive riders. 
+  * He had two pieces of evidence to support his theory.
+    * Magnetic anomalies
+    * Magnetic Reversals.
+  * These helped geologists discover that the earth's magnetic field
+    reversed polarity over geological time. With radiometric dating of
+    lava flows, they could match the magnetic reversals with time.
+
 Chapter 5 Minerals
 ------------------
 1. Silicates are the major rock-forming minerals. List the five types of
