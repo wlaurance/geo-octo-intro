@@ -23,7 +23,7 @@ balls and discs - the accretionary disk. Gravity pulled and pulled and
 eventually the matter packed tightly and formed a hot glowing protostar.
 **Boom!** fusion reactions began and stars are born.
 
-Applying this too our solar system, we first have some volatile
+ Applying this too our solar system, we first have some volatile
 materials like H, He, CH4, C02, H20. Gravity started to pull and this
 materials stuck together and formed planetesimals. With more collisions
 inner heat developed. Heat developed layers because the of the
