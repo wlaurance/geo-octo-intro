@@ -113,8 +113,8 @@ scientists determine the rate of spreading.
     reversed polarity over geological time. With radiometric dating of
     lava flows, they could match the magnetic reversals with time.
 
-Chapter 5 Minerals
-------------------
+Chapter 5 Minerals ✔
+--------------------
 1. Silicates are the major rock-forming minerals. List the five types of
    silicate minerals. Briefly describe each by telling how the how many
 of the oxygens are linked in the Si-O tetrahedra and talk about the
@@ -122,10 +122,28 @@ relative resistance to weathering of each.
 2. Minerals are classified by grouping them according to their chemical
    composition. There are seven mineral classifications. Choose five to
 briefly describe or define.
+   * Oxides - metal cation + oxygen anion Fe2O3
+   * Sulfides - metal cation + sulfide anion PbS
+   * Sulfates - metal cation + sulfate anion group, gypsum CaSO4
+   * Halides - the anion is halgon ion SALT NaCl
+   * Native Metals - pure masses of a singe metal (gold, silver etc).
+   * Silicates, make up most minerals.
 3. Minerals are distinguished from each other by their physical
    properties. There is a long list of physical properties. Choose five
 to describe or define. 
-
+   * Luster - is either metallic or non-metallic as the main two. Glassy
+     and satiny, pearly, earthy.
+   * Streak is when the mineral is crushed against an unglazed porcelain
+     and the steak color is observed.
+   * Hardness - is the resistance to scratching resistance of a
+     mineral. MOHS hardes scale 1. Talc --> Glass 5.5 --> Diamond 10
+   * Specific gravity is a ratio of the weight of a mineral divided by
+     the the weight of an equal volume of water. It is how heavy it
+     feels.
+   * Crystal form is the degrees of crystal faces during development.
+     Anhedral is no visible faces. Euhedral is well-developed crystal
+     faces and **very** rare.
+  
 Chapter 12 Absolute and Relative Dating
 ---------------------------------------
 1. Geologic principles allow us to interpret the sequence of geologic
