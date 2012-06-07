@@ -182,16 +182,92 @@ hz younger
 //////////////////////
 
 
-Chapter 7 Sedimentary Rocks
----------------------------
+Chapter 7 Sedimentary Rocks ✔
+-----------------------------
 1. Rocks at the surface of the Earth undergo physical and chemical
    weathering. Define physical and chemical weathering.  Describe two
 examples of each type of weathering.
+   * Physical weathering is the process of erosion due to other physical
+     forces such as wind, water, earthquakes. A cool example is frost
+wedgin. Water enters crevices of rocks and when the water freezes, the
+ice pushes rocks around because ice less dense than water.
+   * Chemical weathering is when chemicals in rocks react with other
+     chemicals. A classic example would be oxidation or rusting of
+metals. Really this is a loss of electrons. 
 2. There are six factors which influence the formation of soils. List
    and describe five of them. 
+    1. Climate
+    2. Substrate Composition
+    3. Slope Steepness
+    4. Drainage
+    5. Time
+    6. Vegetation Type
 3. Sedimentary structures help to reconstruct the depositional setting
    of sedimentary rocks. Describe four types of sedimentary structures
 described in class and interpret how sediments were deposited for each
 structure type (i.e. wind, water, flow velocity, flow direction….).  
 4. List and describe the major steps in forming clastic/detrital
    sedimentary rocks.
+
+Clastic process:
+----------------
+
+### Weathering
+
+Weather or erode existing rocks.
+Joints - cracks in rocks.
+Fault - cracks in rocks with movement.
+
+A lot of material on the continental crust is granite.
+
+1. Physical Weathering-Root and Salt Wedging
+2. Spheroidal Weathering-Rounding of edges, type of chemical weathering.
+
+Weathering rate depends on rock structure, number of joints, rock size, climate
+
+
+### Moving the Pieces
+
+How can you move sediments of all sizes?
+* Wind
+* Water
+* Ice
+* Gravity
+
+Grain size will decrease the further rocks move.
+More angular, closer to source.
+Minerals vary less as transport length increases.
+
+Sorting 
+
+
+### Deposition
+
+Deposition environment
+Sedimentary structures
+
+* Geographic setting where sediment is accumulating
+* Determines the nature of the sediments that accumulate( grain size,
+  grain shape etc).
+
+Primary bedding vs. Internal layering
+
+Transport direction from crossbeds
+
+Sand dunes
+
+Graded Bedding.
+
+Sedimentary Structures
+
+* Ripple Marks
+
+### Lithification
+
+1. Compaction
+   * Sediments accumulate
+   * weight
+2. Cementation
+   * Precipitation of other minerals into spaces.
+
+
