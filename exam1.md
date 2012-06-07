@@ -46,11 +46,21 @@ So closer to the sun are rockier planets, and further out are gasier
 planets. Pluto is a Kuiper Belt object. It is no longer a planet because
 its orbit that lies oblique to the plane of the soler system.
 
-Chapter 2 What is the Earth Made Of?
-------------------------------------
+Chapter 2 What is the Earth Made Of? ✔
+--------------------------------------
 1. Today we approach the study of the Earth as a “systems science.” List
    the four systems. Describe or list what is included within each
 system. Define and describe one “cycle”.
+ * Hydrosphere - Surface water - lakes, rivers
+   GroundWater = water in pores of rocks
+   Water vapor in atomsphere.
+ * Atmosphere - an evelope of gas consisting of nitrogen 78, and O 21.
+ * Lithosphere = the earth is made of layers. Layers of the earth are
+   the crust, mantle, and core.
+ * Biosphere, living things on the earth, in the Hydroshere.
+ * Cycles are interactions between different spheres. Water cycle.
+   Precipitation, evaporation, transipration, vapour transport,
+percolation, bodies of water.
 2. The Earth’s interior can be divided into three major layers. Describe
    each layer by the following: average thickness OR depth to boundary
 layers (use correct units); average density (use correct units); is it
@@ -59,6 +69,16 @@ elemental composition).
 3. There are seven categories of earth materials; two of which, organic
    chemicals and volatiles, we will not be concentrating on. List and
 briefly describe the other five categories of earth materials.
+  * Minerals - solid substance in which atoms are arranged in an orderly
+    pattern.
+  * Glasses - A solid substance in which atoms are **not** arranged in
+    an orderly pattern. Obsidian.
+  * Rocks - Aggregates of mineral crystals or grains, and masses of
+    natural glass.
+  * Metals - Solid composed of metal atoms, (iron, copper, aluminum, tin
+    etc).
+  * Melts - Solid materials become hot and transform into liquid - magma
+    and lava.
 
 Chapter 3 Drifting Continents and Spreading Seas ✔
 --------------------------------------------------
