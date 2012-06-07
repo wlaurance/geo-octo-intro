@@ -144,13 +144,43 @@ to describe or define.
      Anhedral is no visible faces. Euhedral is well-developed crystal
      faces and **very** rare.
   
-Chapter 12 Absolute and Relative Dating
----------------------------------------
+Chapter 12 Absolute and Relative Dating ✔
+-----------------------------------------
 1. Geologic principles allow us to interpret the sequence of geologic
    events or relative age. Name and describe five of the seven
 principles.
+   
 2.  Define unconformity. Describe the three different types of
     unconformities. A picture of each type is required. 
+
+Unconformity = mising geological time. Any break in the sedimentary
+geologic record
+
+* Nonconformity
+
+ younger rocks
+"~~~~~~~~~~~~~~~~~~~~~~"
+--|"~~~~~~~~~~~~~~~~~~~"
+  |--|"~~~~~~~~~~~~~~~~"
+     |--================
+ig/meta older
+
+
+* Disconformity
+
+ younger rocks
+ hz
+ hz
+"~~~~~~~~~~~~~~~~~~~~~~"
+ hz
+ hz
+
+* Angular unconformity
+
+hz younger
+"~~~~~~~~~~~~~~~~~~~~~~"
+//////////////////////
+
 
 Chapter 7 Sedimentary Rocks
 ---------------------------
