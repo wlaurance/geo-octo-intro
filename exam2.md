@@ -30,6 +30,13 @@ eruptions. Lower temperature than mafic.
 many mafic volcanoes. Higher temperature than felsic
 3. The largest volume of igneous rocks can be found as intrusives in the
    Earth’s crust. List and describe/define the five intrusive igneous
+  * Dike - Dike cuts across layers. Devils' Tower, Wyoming.
+  * Sill - pushes between layers of rock and is confined in the layer.
+  * Laccolith - Pool of lava and magma.
+  * Batholist - Bigger laccolith
+  * Plutons - Lava pit below volcano. The can take millions of years to
+    cool.
+
 bodies discussed in class.
 
 4. Where are igneous rocks forming today? We discussed four settings
@@ -48,6 +55,21 @@ relative slope, height (relief) of each volcano and an example of where
 in the world you would find each.
 
 2. List and completely describe five volcanic hazards.
+   * Lava Flows => streams of molten rock, slow in speed, intermediate
+     to mafic composition. They add to the land as the flow.
+   * Pyroclastic Flows => avalanche of rock material, hot ash and gas.
+     up to 80km/h and 700C! Can incinerate, burn, and asphyxiate ppl.
+   * Lahars => wet cement like slurry, formation requires
+      1. An adequate water source
+      2. Abundant unconsolidated debris
+      3. Steep slopes at source
+      4. Triggering mechanism.
+   * Landslides => Volcanic activity weakens the land around them. The
+     vibrations can trigger mass amounts of earth to fall down a
+mountain slope.
+   * Acid Rains - the volcanic gases form from SO2 and cause water
+     contamination and plant damage. Wind can make the impact radius much
+further.
 
 3. Benjamin Franklin noticed that the summer of 1783 in France to be
    fairly cool and suspected volcanic “smoke” as the cause. Geologists
