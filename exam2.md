@@ -24,10 +24,10 @@ Label axes and describe and label all parts of the graph.
 viscosity, temperature, dominant elements and resultant rocks of each.
   * Felsic - 66%-76% silica. Rhyolite, Granites. Tend to have more Na
     than Ca. High viscosity, with tendenancy to have very expolosive
-eruptions.
+eruptions. Lower temperature than mafic.
   * Mafic - 45% - 52% silica, basalts , Gabbro. Tend to have more Ca
     than Na. Less explosive because the viscosity is lower. Hawaii has
-many mafic volcanoes.
+many mafic volcanoes. Higher temperature than felsic
 3. The largest volume of igneous rocks can be found as intrusives in the
    Earth’s crust. List and describe/define the five intrusive igneous
 bodies discussed in class.
