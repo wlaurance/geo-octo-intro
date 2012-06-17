@@ -58,7 +58,6 @@ in the world you would find each.
 Sheilds have a central caldera where lava flows from and flank eruptions
 on its sides'. The new lava flow adds to the height. Typically a
 basaltic flow. More effusive.
-
    * Stratovolcano - ~3km height, steep slope. Mt. Fuji, Mt. Vesuvius
      and Mt. Shasta. High viscosity (Falsic) lava. More of a andesitic
 flow, rhyoltic dome or spire. Has crater in the center. Layers of
