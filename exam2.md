@@ -6,23 +6,28 @@
    needed to cause melting. Sketch a graph of the oceanic geotherm.
 Label axes and describe and label all parts of the graph.
 
-**Magma** is a mixture of molten or semi-molten rock, volatiles and
-solids found beneath the earth's surface. Magma forms better with 
- * decompression as pressure increases, melting point increases. Thus if
-   super hot rocks quicky move up the sea level, they would become
-molten.
- * Melting due to the addition of volatiles. By adding H2O or CO2 mix
-   with hot rocks breaks the chemical bonds and makes the rocks melt
-easier.
- * Melting due to heat transfer from rising magma. Heat transfer,
-   radition occurs on a large scale underground.
+  **Magma** is a mixture of molten or semi-molten rock, volatiles and
+  solids found beneath the earth's surface. Magma forms better with 
+   * decompression as pressure increases, melting point increases. Thus if
+     super hot rocks quicky move up the sea level, they would become
+  molten.
+   * Melting due to the addition of volatiles. By adding H2O or CO2 mix
+     with hot rocks breaks the chemical bonds and makes the rocks melt
+  easier.
+   * Melting due to heat transfer from rising magma. Heat transfer,
+     radition occurs on a large scale underground.
 
-  ![Oceanic geotherm](../../raw/master/images/oceanicgeotherm.jpg)
+    ![Oceanic geotherm](../../raw/master/images/oceanicgeotherm.jpg)
 
 2. There are four magma types. I talked about three most often in class.
    Discuss two of the magma types (not intermediate) by including
 viscosity, temperature, dominant elements and resultant rocks of each.
-
+  * Felsic - 66%-76% silica. Rhyolite, Granites. Tend to have more Na
+    than Ca. High viscosity, with tendenancy to have very expolosive
+eruptions.
+  * Mafic - 45% - 52% silica, basalts , Gabbro. Tend to have more Ca
+    than Na. Less explosive because the viscosity is lower. Hawaii has
+many mafic volcanoes.
 3. The largest volume of igneous rocks can be found as intrusives in the
    Earth’s crust. List and describe/define the five intrusive igneous
 bodies discussed in class.
