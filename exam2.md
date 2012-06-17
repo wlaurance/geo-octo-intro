@@ -6,6 +6,19 @@
    needed to cause melting. Sketch a graph of the oceanic geotherm.
 Label axes and describe and label all parts of the graph.
 
+**Magma** is a mixture of molten or semi-molten rock, volatiles and
+solids found beneath the earth's surface. Magma forms better with 
+ * decompression as pressure increases, melting point increases. Thus if
+   super hot rocks quicky move up the sea level, they would become
+molten.
+ * Melting due to the addition of volatiles. By adding H2O or CO2 mix
+   with hot rocks breaks the chemical bonds and makes the rocks melt
+easier.
+ * Melting due to heat transfer from rising magma. Heat transfer,
+   radition occurs on a large scale underground.
+
+  ![Oceanic geotherm]('images/oceanicgeotherm.jpg')
+
 2. There are four magma types. I talked about three most often in class.
    Discuss two of the magma types (not intermediate) by including
 viscosity, temperature, dominant elements and resultant rocks of each.
