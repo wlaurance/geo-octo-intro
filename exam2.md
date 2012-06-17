@@ -17,7 +17,7 @@ easier.
  * Melting due to heat transfer from rising magma. Heat transfer,
    radition occurs on a large scale underground.
 
-  ![Oceanic geotherm]('images/oceanicgeotherm.jpg')
+  ![Oceanic geotherm](images/oceanicgeotherm.jpg)
 
 2. There are four magma types. I talked about three most often in class.
    Discuss two of the magma types (not intermediate) by including
