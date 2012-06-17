@@ -53,6 +53,17 @@ on Earth.
 and temperature of lava, effusive vs. explosive release (gas content),
 relative slope, height (relief) of each volcano and an example of where
 in the world you would find each.
+   * Sheild Volcano - The tallest volcanoes ~9km, small slope. Mt.
+     Kilimanjaro and in Hawaii. Low viscosity (Mafic) lava. Higher temp.
+Sheilds have a central caldera where lava flows from and flank eruptions
+on its sides'. The new lava flow adds to the height. Typically a
+basaltic flow. More effusive.
+
+   * Stratovolcano - ~3km height, steep slope. Mt. Fuji, Mt. Vesuvius
+     and Mt. Shasta. High viscosity (Falsic) lava. More of a andesitic
+flow, rhyoltic dome or spire. Has crater in the center. Layers of
+pyroclast, flank vents and domes on the sides. Sills and dikes, and lava
+flows. Felsic to intermediate composition. More explosive
 
 2. List and completely describe five volcanic hazards.
    * Lava Flows => streams of molten rock, slow in speed, intermediate
