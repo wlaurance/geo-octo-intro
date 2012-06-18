@@ -96,6 +96,190 @@ on Earth?
 sketch of each is REQUIRED to answer this question and must include
 labels of old and young rocks.
 
+  * Anticline
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+  * Syncline
+
+
+  |  
+
+  |  
+
+ 
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+  * Monocline  
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+  * Open fold    
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+  * Tight fold
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+  * Plunging fold
+  |  
+
+  |  
+
+  | 
+
+ | 
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+  
+  * Nonplunging fold
+
+  | 
+
+  |  
+
+  |  
+
+  | 
+
+
+  |  
+
+  |  
+
+  | 
+
+
+
+  |  
+
+  |  
+
+  | 
+
+
+
+
 2. There are four types of faults – two of vertical and two of
    horizontal movement. Describe each by the type of stress applied and
 where you can find each type on Earth. A sketch of each is REQUIRED to
@@ -173,7 +357,7 @@ answer this question.
 
 |
  
-   * Strike-slip faults
+   * Strike-slip faults. San Andreas Fault. Shearing force.
 
 |
  
@@ -210,7 +394,7 @@ answer this question.
 
 |
  
-   * Oblique-slip faults
+   * Oblique-slip faults 
 
 |
  
