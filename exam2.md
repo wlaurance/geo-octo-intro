@@ -101,6 +101,61 @@ labels of old and young rocks.
 where you can find each type on Earth. A sketch of each is REQUIRED to
 answer this question.
 
+   * Normal
+
+
+
+
+
+
+
+
+
+
+
+
+   * Thrust or Reverse
+
+
+
+
+
+
+
+
+
+
+
+
+   * Strike-slip faults
+
+
+
+
+
+
+
+
+
+
+
+
+   * Oblique-slip faults
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 3. Geologists have constructed the “life story” of the Appalachian
    Mountains of North America. Describe the life cycle of the
 Appalachians by naming in order each orogenic event including time (in
