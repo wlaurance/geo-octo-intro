@@ -44,7 +44,13 @@ bodies discussed in class.
 describe these settings. Give a specific example of each setting found
 on Earth. 
 
+## Chapter 8 Metamorphism 
+1. Describe the five common processes or textural changes that can occur
+   on a grain-size scale during metamorphism.
 
+2. There are four different causes of metamorphism which turn protoliths
+   into metamorphic rocks. Describe these.  Be brief but specific in
+your answer.
 
 ## Chapter 9 Volcanoes 
 
