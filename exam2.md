@@ -103,13 +103,11 @@ labels of old and young rocks.
 
   | 
 
-
   |  
 
   |  
 
   | 
-
 
   |  
 
@@ -123,7 +121,6 @@ labels of old and young rocks.
   |  
 
   |  
-
  
   |  
 
@@ -131,13 +128,11 @@ labels of old and young rocks.
 
   | 
 
-
   |  
 
   |  
 
   | 
-
 
   |  
 
@@ -153,20 +148,17 @@ labels of old and young rocks.
 
   | 
 
-
   |  
 
   |  
 
   | 
 
-
   |  
 
   |  
 
   | 
-
 
   |  
 
@@ -182,20 +174,17 @@ labels of old and young rocks.
 
   | 
 
-
   |  
 
   |  
 
   | 
 
-
   |  
 
   |  
 
   | 
-
 
   |  
 
@@ -204,12 +193,6 @@ labels of old and young rocks.
   | 
 
   * Tight fold
-  |  
-
-  |  
-
-  | 
-
 
   |  
 
@@ -217,13 +200,17 @@ labels of old and young rocks.
 
   | 
 
-
   |  
 
   |  
 
   | 
 
+  |  
+
+  |  
+
+  | 
 
   |  
 
@@ -232,13 +219,6 @@ labels of old and young rocks.
   | 
 
   * Plunging fold
-  |  
-
-  |  
-
-  | 
-
-  | 
 
   |  
 
@@ -246,6 +226,13 @@ labels of old and young rocks.
 
   | 
 
+  | 
+
+  |  
+
+  |  
+
+  | 
 
   |  
 
@@ -261,23 +248,17 @@ labels of old and young rocks.
 
   | 
 
-
   |  
 
   |  
 
   | 
 
-
-
   |  
 
   |  
 
   | 
-
-
-
 
 2. There are four types of faults – two of vertical and two of
    horizontal movement. Describe each by the type of stress applied and
