@@ -95,7 +95,6 @@ on Earth?
    stress applied, shape, and where you can find each type on Earth. A
 sketch of each is REQUIRED to answer this question and must include
 labels of old and young rocks.
-
   * Anticline
 
   |  
@@ -239,7 +238,7 @@ labels of old and young rocks.
 
   | 
 
- | 
+  | 
 
   |  
 
@@ -284,161 +283,160 @@ labels of old and young rocks.
    horizontal movement. Describe each by the type of stress applied and
 where you can find each type on Earth. A sketch of each is REQUIRED to
 answer this question.
-
    * Normal
 
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
-   * Thrust or Reverse
+  |
+   
+     * Thrust or Reverse
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
-   * Strike-slip faults. San Andreas Fault. Shearing force.
+  |
+   
+     * Strike-slip faults. San Andreas Fault. Shearing force.
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
-   * Oblique-slip faults 
+  |
+   
+     * Oblique-slip faults 
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
- 
+  |
+   
 
-|
+  |
  
 3. Geologists have constructed the “life story” of the Appalachian
    Mountains of North America. Describe the life cycle of the
