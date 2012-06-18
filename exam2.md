@@ -264,161 +264,112 @@ labels of old and young rocks.
    horizontal movement. Describe each by the type of stress applied and
 where you can find each type on Earth. A sketch of each is REQUIRED to
 answer this question.
-   * Normal
+  * Normal
 
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
 
   |
    
+  |
 
   |
    
+  |
+   
+  * Thrust or Reverse
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
 
   |
    
+  * Strike-slip faults. San Andreas Fault. Shearing force.
 
   |
    
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
 
   |
    
+  * Oblique-slip faults 
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
 
   |
    
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-     * Thrust or Reverse
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-     * Strike-slip faults. San Andreas Fault. Shearing force.
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-     * Oblique-slip faults 
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
-   
-
-  |
- 
 3. Geologists have constructed the “life story” of the Appalachian
    Mountains of North America. Describe the life cycle of the
 Appalachians by naming in order each orogenic event including time (in
