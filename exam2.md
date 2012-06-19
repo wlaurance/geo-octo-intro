@@ -39,18 +39,24 @@ many mafic volcanoes. Higher temperature than felsic
 
 bodies discussed in class.
 
-4. Where are igneous rocks forming today? We discussed four settings
-   where igneous activity occurs around the world. List and briefly
-describe these settings. Give a specific example of each setting found
-on Earth. 
-
 ## Chapter 8 Metamorphism 
-1. Describe the five common processes or textural changes that can occur
-   on a grain-size scale during metamorphism.
 
 2. There are four different causes of metamorphism which turn protoliths
    into metamorphic rocks. Describe these.  Be brief but specific in
 your answer.
+
+    * Increase of temperature - Chemical bonds bend and stretch. If they
+      break they can move slightly and re-attach to other atoms.
+    * Increase of pressure - Pressure causes materials to collapse
+      inward. Apply pressure and denser minerals tend to form through
+      phase changes.
+    * Differential stress - a material is pulled or squeezed unequally.
+      *Normal Stress* is a push or pull perpendicular. *Shear Stress*
+      moves one part of a material sideways relative to another part.
+    * Addition of hydrofluids - fluid forms under high temp and pressure
+      and has characteristics of a both a gas and liquid. It can
+      permeate rock like a gas and seep into any opening and chemically react
+      with the rock. It is a solution.
 
 ## Chapter 9 Volcanoes 
 
@@ -86,14 +92,6 @@ mountain slope.
    * Acid Rains - the volcanic gases form from SO2 and cause water
      contamination and plant damage. Wind can make the impact radius much
 further.
-
-3. Benjamin Franklin noticed that the summer of 1783 in France to be
-   fairly cool and suspected volcanic “smoke” as the cause. Geologists
-have studied glacial ice to understand the effect of volcanic activity
-and climate.  How can a volcanic eruption create these cooling effects
-on Earth?
-
-
 
 ## Chapter 11 Crustal Deformation and Mountain Building
 
@@ -376,40 +374,61 @@ answer this question.
 
   |
    
-3. Geologists have constructed the “life story” of the Appalachian
-   Mountains of North America. Describe the life cycle of the
-Appalachians by naming in order each orogenic event including time (in
-years) of occurrence and briefly describe what forces were in play for
-each event.
-
-
 
 ## Chapter 10 Earthquakes
 
 1. Define earthquake. These terms are used in defining an earthquake as
    well - - define these terms: hypocenter, epicenter, types of seismic
 waves used in finding the epicenter and magnitude.
+    * hypocenter - or focus is the point underground where seismic waves
+      radiate from... the point of first rupture.
+
+    * epicenter - point directly above the hypocenter on the ground
+      surface.
+
+    * seismic waves
+      * S-waves - shear waves
+      * P-waves - faster waves.
+      * surface waves - what we feel on the earth's surface.
+
+    * Traingulation of S and P waves for various seismographs.
+    
+    * Magnitude is measured by the strongest wave recorded for that
+      seismograph using a computer typically. 
 
 2. List and describe five types of damage that result from a large
    earthquake.
 
-3. Earthquake prediction is very hard to do. Seismologists have been
-   working to understand the clues to imminent earthquakes on short-term
-scales. There are four discussed in your book. List and describe these.
+    1. Landslides - rocks and soil are loosened from the vibrations
+       land with buildings can shift.
+    2. Sediment liquefication - Wet clay layer under the soil, an
+       earthquake causes the clay water bond to break and the top layers
+       begin to slide on the clay.
+    3. Tsunamis - Vibrations in the ocean cause giant waves that can hit
+       the land and cause mass damage.
+    4. Ground Shaking - Seismic waves created more damage when traveling
+       through water saturated soils. 
+    5. Flooding?
 
 
 
 ## Chapter 4 Plate Tectonics
 
-1. There are seven pieces of evidence or observations you learned in
-   class which supports the Plate Tectonics Theory. List and briefly
-describe this evidence.
-
 2. Define plate boundary. Describe the three different types of plate
    boundaries to include stresses applied, resultant faulting, foci
 depths of earthquakes and an example of where the boundary is found on
 Earth.
-
+   Plate Boundaries - found at the edge of the lithospheric plates.
+   1. Convergent - one plate is overriding the other. Thus one forces
+      the other down into the mantle. These boundaries form trenches and
+      island arc systems. Compression
+   2. Divergent - divergent plate boundaries are spreading at the
+      center. Ocean ridges are creating due to the rising magma when the
+      two plates seperate. Tension is applied
+   3. Conservative or Tranform - two plates sliding past one another.
+      Shearing and tension are applied. San andreas Fault is a great
+      example
+  
 
 
 
