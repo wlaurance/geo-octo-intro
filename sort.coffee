@@ -1,4 +1,5 @@
 fs = require 'fs'
+ico = require 'ico'
 colors = require 'colors'
 _ = require 'underscore'
 tar  = []
@@ -29,8 +30,6 @@ fs.readFile __dirname + '/cptardata.txt', (err, data)->
 
   indexed = _.sortBy sorted, 'index'
   for point in indexed
-    point.ri = String(Number((point.rank + point.q)/point.guage).toFixed 2).green
+    point.ri = String(Number((point.rank + 1)/point.guage).toFixed 2).green
   for point in indexed
     console.log point.q + " " + point.guage + " " + String(point.rank).red + " " + point.ri
-
-
